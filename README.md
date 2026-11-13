@@ -63,8 +63,8 @@ Chương trình được tổ chức bằng FreeRTOS với 3 Task chạy trên 2
 Sơ đồ kết nối các linh kiện được thiết kế và mô phỏng trên nền tảng Wokwi.
 
 ![Sơ đồ mạch](images/so-do-mach.png)
+<img width="1129" height="595" alt="so-do-wokwi" src="https://github.com/user-attachments/assets/f7db806e-b7be-412a-80da-783c80e1e5b3" />
 
-**Lưu ý:** Ảnh sơ đồ mạch cần được đặt trong thư mục `images` với tên `so-do-mach.png` để hiển thị đúng trên GitHub.
 
 ## 4. Kiến trúc hệ thống FreeRTOS
 

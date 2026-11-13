@@ -62,7 +62,6 @@ Chương trình được tổ chức bằng FreeRTOS với 3 Task chạy trên 2
 
 Sơ đồ kết nối các linh kiện được thiết kế và mô phỏng trên nền tảng Wokwi.
 
-![Sơ đồ mạch](images/so-do-mach.png)
 <img width="1129" height="595" alt="so-do-wokwi" src="https://github.com/user-attachments/assets/f7db806e-b7be-412a-80da-783c80e1e5b3" />
 
 
@@ -226,6 +225,9 @@ Mở Serial Monitor để theo dõi các thông số:
 ### Bước 4: Mở giao diện Web
 
 Mở file `Web_phat_hien_te_nga.html` bằng trình duyệt web có kết nối Internet.
+
+<img width="1836" height="910" alt="web-trang-thai-binh-thuong" src="https://github.com/user-attachments/assets/ce0b9110-23c3-4543-a509-2a621768421a" />
+
 
 Giao diện sẽ kết nối đến MQTT Broker thông qua WebSocket Secure để nhận dữ liệu từ ESP32.
 

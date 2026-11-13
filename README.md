@@ -263,4 +263,4 @@ Qua bài thực hành, em hiểu rõ hơn về RTOS, cơ chế giao tiếp giữ
 
 **Sinh viên thực hiện:** Nguyễn Văn Hoàng Phi  
 **Mã sinh viên:** 231432312  
-**Môn học:** Hệ điều hành thời gian thực – Lab 3
+**Môn học:** Hệ thống Nhúng

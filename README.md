@@ -158,7 +158,7 @@ Dữ liệu cảm biến được gửi dưới dạng JSON, bao gồm:
 
 ## 7. Giao diện Web Dashboard
 
-Giao diện Web được xây dựng bằng HTML, CSS và JavaScript trong file `dashboard_phat_hien_te_nga.html`.
+Giao diện Web được xây dựng bằng HTML, CSS và JavaScript trong file `Web_phat_hien_te_nga.html`.
 
 Các thư viện sử dụng:
 
@@ -225,7 +225,7 @@ Mở Serial Monitor để theo dõi các thông số:
 
 ### Bước 4: Mở giao diện Web
 
-Mở file `dashboard_phat_hien_te_nga.html` bằng trình duyệt web có kết nối Internet.
+Mở file `Web_phat_hien_te_nga.html` bằng trình duyệt web có kết nối Internet.
 
 Giao diện sẽ kết nối đến MQTT Broker thông qua WebSocket Secure để nhận dữ liệu từ ESP32.
 

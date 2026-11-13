@@ -262,7 +262,3 @@ Bên cạnh đó, việc kết hợp MQTT và Web Dashboard giúp hệ thống c
 
 Qua bài thực hành, em hiểu rõ hơn về RTOS, cơ chế giao tiếp giữa các Task, giao thức MQTT và quy trình xây dựng một hệ thống IoT hoàn chỉnh từ cảm biến đến giao diện người dùng.
 
-
-**Sinh viên thực hiện:** Nguyễn Văn Hoàng Phi  
-**Mã sinh viên:** 231432312  
-**Môn học:** Hệ thống Nhúng
